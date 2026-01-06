@@ -12,6 +12,9 @@ taxonomies:
 
 menu:
     main:
+        - name: Search
+          url: search/
+          weight: 1
         - name: Books
           url: books/
           weight: 5 
@@ -27,7 +30,13 @@ menu:
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
-
+          
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Moritz-Maria von Igelfeld
