@@ -44,6 +44,13 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
+    hideThemeName: true
+
+    copyright: >
+      © 2026 Saravanan ·
+      <a href="/cv.pdf">CV</a> ·
+      <a href="mailto:saravanan@example.com">Email</a> ·
+      <a href="https://github.com/vaantamil">GitHub</a>
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
