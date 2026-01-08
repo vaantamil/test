@@ -8,7 +8,7 @@ tags:
   - Management
 
 cover:
-  image: "/papers/louis-gerstner-jr-homage-tamil.jpg"
+  image: "/articles/louis-gerstner-jr-homage-tamil.jpg"
   alt: "louis-gerstner-jr-homage-tamil"
   caption: "ஐபிஎம் லூயிஸ் கெர்ஸ்ட்னரும், நடனம் கற்றுக்கொண்ட யானையும்"
 
