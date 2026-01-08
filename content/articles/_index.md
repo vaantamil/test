@@ -1,7 +1,7 @@
 ---
 title: Articles
 sort_by: date
-sort_order: desc
+sort_order: asc
 ---
 
 Articles
