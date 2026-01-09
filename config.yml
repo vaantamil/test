@@ -60,7 +60,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["articles"]
+    MainSections: ["articles", "search"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
