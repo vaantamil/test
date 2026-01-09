@@ -1,0 +1,3 @@
+---
+redirectURL: "/articles/"
+---
