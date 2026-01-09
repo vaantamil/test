@@ -60,7 +60,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["articles"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -69,7 +69,7 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
+          enabled: false
           title: GLAM
           subtitle: "கணியம் அறக்கட்டளை."
           imageUrl: "picture.jpeg"
