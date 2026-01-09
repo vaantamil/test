@@ -1,3 +1,0 @@
----
-redirectURL: "/articles/"
----
